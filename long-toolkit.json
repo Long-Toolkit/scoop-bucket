@@ -1,12 +1,12 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.9",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Long-Toolkit/CLI/releases/download/v0.0.2/long-toolkit_0.0.2_windows_amd64.zip",
+            "url": "https://github.com/Long-Toolkit/CLI/releases/download/v0.0.9/long-toolkit_0.0.9_windows_amd64.zip",
             "bin": [
                 "long-toolkit.exe"
             ],
-            "hash": "b8b2118e4e72ad9e78b7679e241ba347e8d18f94c38913755268450f3fff7039"
+            "hash": "ca131f4de4185ec594042ed5e9c9734d810f7c5417d542f5d1ab66ffacbae49d"
         }
     },
     "homepage": "https://github.com/Long-Toolkit/long-toolkit",
