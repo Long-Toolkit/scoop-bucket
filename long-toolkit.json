@@ -1,0 +1,15 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Long-Toolkit/CLI/releases/download/v0.0.2/long-toolkit_0.0.2_windows_amd64.zip",
+            "bin": [
+                "long-toolkit.exe"
+            ],
+            "hash": "b8b2118e4e72ad9e78b7679e241ba347e8d18f94c38913755268450f3fff7039"
+        }
+    },
+    "homepage": "https://github.com/Long-Toolkit/long-toolkit",
+    "license": "MIT",
+    "description": "Interactive no-code terminal CLI for Long-Toolkit, a hub of toolkits for longitudinal data in Python."
+}
